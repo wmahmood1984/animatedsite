@@ -1,0 +1,17 @@
+.bgimg {
+    background-image: url('https://www.brookings.edu/wp-content/uploads/2018/07/20180711_metro_10metroareas.jpg');
+    background: steelblue;
+    color: white;
+    padding: 1.5rem;
+    
+
+}
+
+.bgimg2 {
+    background-image: url('https://www.brookings.edu/wp-content/uploads/2018/07/20180711_metro_10metroareas.jpg');
+    background: slateblue;
+    color: white;
+    padding: 1.5rem;
+    
+
+}
