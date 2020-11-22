@@ -63,12 +63,12 @@ const movingObj2 = useWebAnimations({
                 
                 <div className="grids">
                 <div data-aos="fade-right" className="boxes2">
-                    <img src={"https://esellercafe.com/wp-content/uploads/2020/05/square-payment-retail-tablet-1140x570.jpg"} ref={movingObj1.ref} />
+                    <img alt="something" src={"https://esellercafe.com/wp-content/uploads/2020/05/square-payment-retail-tablet-1140x570.jpg"} ref={movingObj1.ref} />
                 </div>
                 <div data-aos="fade-up" className="boxes">
-                <img src={"https://thatcreativefeeling.com/wp-content/uploads/Yiqi-Li.jpeg"} ref={movingObj2.ref} />
+                <img alt="something" src={"https://thatcreativefeeling.com/wp-content/uploads/Yiqi-Li.jpeg"} ref={movingObj2.ref} />
                 </div>
-                <img src={"https://www.brookings.edu/wp-content/uploads/2018/07/20180711_metro_10metroareas.jpg"} data-aos="fade-up" className="boxes1"></img>                
+                <img src={"https://www.brookings.edu/wp-content/uploads/2018/07/20180711_metro_10metroareas.jpg"} data-aos="fade-up" className="boxes1" alt="something"></img>                
                 <div  data-aos="fade-right" className="boxes">
                 <p>Lorem ipsum dolor sit, amet consectetur adipiscing elit. Possimus obis adipisci eum minima deserunt at porro, veritatis officia commodi itaque voluptates vel susceipit assumenda soluta ispa voluptatibus laudantium labore harum?</p>
                 </div>
